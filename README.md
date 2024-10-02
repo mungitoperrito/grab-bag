@@ -1,2 +1,5 @@
 # grab-bag
-Consolidate scraps of who knows what from other repos
+
+This repo is a little bit of everything. It consolidates code, exercises, and small projects from other repos.
+
+Some of it might even be useful.
